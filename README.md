@@ -15,7 +15,8 @@
 ### command-line-tools
 ### Microservices
 
-
+1. create a virtualenv: virtualenv ~/.venv
+2. edit ".bashrc"
 ## Command-line Tools
 
 ## Microservices
