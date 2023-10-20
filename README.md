@@ -1,7 +1,3 @@
-# python-for-devops
-Repository for common python code used in deevops
-
-
 ## Create a project scaffold
 
 * Create development envirinment that is cloud-based:
@@ -10,8 +6,18 @@ Repository for common python code used in deevops
 ### AWS Cloudshell
 ### AWS Cloud9
 
+* Build out Python scaffold:
+### Makefile
+### requirement.txt
+### test_library-py
+### python_library
+### Dockerfile
+### command-line-tools
+### Microservices
 
 
 ## Command-line Tools
 
 ## Microservices
+
+## Containerized Continuous Delivery
